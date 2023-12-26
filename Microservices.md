@@ -64,3 +64,18 @@ JavaScript microservices have revolutionized web development by enabling the cre
 JavaScript microservices have emerged as a powerful approach for building scalable and modular web applications. Leveraging JavaScript's versatility, Node.js runtime, and extensive ecosystem, developers can create distributed systems that are flexible, maintainable, and performant. JavaScript's scalability, modularity, developer productivity, and interoperability make it an excellent choice for implementing microservices. As the demand for scalable and adaptable web applications continues to grow, JavaScript microservices will remain at the forefront of modern web development, empowering developers to build robust and scalable solutions.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :previous_track_button: [Previous (APIs)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Previous]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/APIs.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript

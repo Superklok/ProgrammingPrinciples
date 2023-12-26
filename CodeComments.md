@@ -1,40 +1,46 @@
 # Code Comments
 <br/>
 
-Comments can clarify things that the code cannot. Programs have two very different audiences: humans and computers. Compilers and interpreters ignore comments and find all syntactically correct programs equally easy to understand. Human readers may find some programs harder to understand than others, and we look to comments to help us make sense what's going on in the code.
+Code comments play a crucial role in JavaScript development by providing additional information and context about the code. They are lines of text that are ignored by the JavaScript interpreter and are solely meant for human readers. Code comments serve several purposes and offer numerous benefits to developers.
 <br/>
 
-Your compiler doesn’t verify the accuracy of your comments so there is no way to determine that the comments included in the program's code are correct. You are, on the other hand, guaranteed that the computer is doing exactly what your code is telling it to.
+Firstly, JavaScript code comments enhance code readability and maintainability. Well-written comments can make code easier to understand, especially for developers who are new to the codebase or for future reference. Comments can explain the purpose of functions, classes, or specific blocks of code, making it easier to navigate and comprehend the code. They can also provide insights into the reasoning behind certain design decisions or complex algorithms.
 <br/>
 
-Redundant comments tend to point out <i>what the code does</i>, while useful ones explain <i>why the code exists</i>. A handy rule of thumb is that a comment should only be added to answer a question that the code itself cannot. If you aren’t confused by what a piece of code is doing, but rather why it’s doing it at that moment, then adding a comment would be a great idea.
+Additionally, code comments in JavaScript serve as documentation. They can describe the inputs, outputs, and behavior of functions or methods. This documentation helps other developers understand how to use the code correctly and can serve as a reference guide. Well-documented code is crucial, especially for collaborative projects or when code is shared with others.
 <br/>
 
-When it comes to code comments, less is more. If you find yourself writing things that sound more like helpful tips rather than succinct explanations, then you might want to consider adding them to your program's documentation instead.
+Code comments also facilitate code debugging and troubleshooting. By adding comments to problematic code sections or areas prone to errors, developers can provide hints or explanations about potential issues and their solutions. This can be particularly helpful when revisiting code after a long period or when encountering difficult bugs. Comments can serve as a reminder of past challenges and their resolutions, saving time and effort in the debugging process.
 <br/>
 
-Always remember that good comments can’t fix bad code. So, if you come across a portion of code that you truly can’t understand, it might be time to refactor the code rather than adding a multiline explanation.
+Moreover, JavaScript code comments can improve code collaboration within development teams. When multiple developers are working on the same codebase, comments can help communicate ideas, intentions, and progress. Comments can provide updates on ongoing work, highlight areas that need attention or improvement, and foster discussions among team members. This collaborative aspect of code comments promotes effective teamwork and knowledge sharing.
 <br/>
 
-Here are some best practices to follow when writing code comments:
+Another benefit of code comments in JavaScript is their role in code version control systems. When using tools like Git, comments can be used to document changes made to the codebase. By adding comments to commits, developers can explain the purpose of the changes, the issues being addressed, or the new features being implemented. This documentation helps track the evolution of the codebase and provides valuable insights for future reference.
+<br/>
 
-- Comments should not duplicate the code.
+It's important to note that while code comments are valuable, they should be used judiciously and follow certain best practices. Comments should be clear, concise, and focused on providing relevant information. Over-commenting can lead to cluttered code and make it harder to maintain. It's also important to keep comments up to date, ensuring they reflect the current state of the code. Outdated or misleading comments can cause confusion and lead to errors.
+<br/>
 
-- Good comments do not excuse unclear code.
-
-- If you can’t write a clear comment, there may be a problem with the code.
-
-- Comments should dispel confusion, not cause it.
-
-- Explain unidiomatic code in comments.
-
-- Provide links to the original source of copied code.
-
-- Include links to external references where they will be most helpful.
-
-- Add comments when fixing bugs.
-
-- Use comments to mark incomplete implementations.
-
+In conclusion, JavaScript code comments are essential for enhancing code readability, providing documentation, facilitating debugging, promoting collaboration, and supporting code version control. By using comments effectively and following best practices, developers can create more maintainable, understandable, and efficient codebases. Incorporating code comments into JavaScript development practices is a valuable skill that can greatly benefit both individual developers and the overall success of software projects.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :next_track_button: [Next (Code Smells)][Next]
+<br/>
+
+### :previous_track_button: [Previous (Pair Programming)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Next]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/CodeSmells.md
+[Previous]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/PairProgramming.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript

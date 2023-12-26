@@ -1,7 +1,7 @@
 # APIs
 <br/>
 
-### An Introduction To APIs
+## An Introduction To APIs
 JavaScript APIs (Application Programming Interfaces) are an essential part of modern web development, providing developers with a wide range of tools and functionalities to create dynamic and interactive web applications. These APIs are pre-defined sets of functions and methods that allow developers to interact with various aspects of web browsers, operating systems, and other software components. Let's delve deeper into JavaScript APIs, exploring their different categories and their significance in web development.
 <br/>
 
@@ -59,7 +59,26 @@ JavaScript offers a plethora of other APIs catering to various needs. Some notab
 <br/>
 <br/>
 
-### In Conclusion
+## In Conclusion
 JavaScript APIs are a vital component of modern web development, providing developers with powerful tools and functionalities to create dynamic, interactive, and feature-rich web applications. The wide range of APIs available allows developers to access and manipulate different aspects of web browsers, operating systems, and devices. By leveraging these APIs, developers can enhance the user experience, create personalized and context-aware applications, and leverage various hardware and software capabilities. JavaScript APIs empower developers to push the boundaries of web development and create innovative and engaging web experiences for users worldwide.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :next_track_button: [Next (Microservices)][Next]
+<br/>
+
+### :previous_track_button: [Previous (System Development Life Cycle)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Next]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/Microservices.md
+[Previous]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/SystemDevelopmentLifeCycle.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript

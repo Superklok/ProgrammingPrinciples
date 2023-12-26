@@ -22,7 +22,7 @@ In this phase, developers conduct a thorough analysis of the requirements to det
 <br/>
 <br/>
 
-### II. Design
+### III. Design
 The design phase focuses on creating a blueprint for the system based on the requirements and analysis. Developers define the system's architecture, components, and data structures. They design the user interface, database schema, and establish the relationships between different system modules. JavaScript frameworks and libraries may be selected to leverage existing functionalities and enhance development efficiency. The design phase ensures that the system is well-structured, scalable, and maintainable.
 <br/>
 
@@ -66,3 +66,22 @@ During the maintenance phase, developers work closely with support teams to addr
 The JavaScript SDLC provides a systematic and structured approach to developing JavaScript-based systems. It encompasses various stages, including requirements gathering, analysis, design, development, testing, deployment, and maintenance. Following the SDLC ensures that JavaScript systems are developed efficiently, meet the specified requirements, and deliver high-quality solutions to end-users. By adhering to this life cycle, developers can effectively manage projects, mitigate risks, and deliver successful JavaScript-based systems.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :next_track_button: [Next (APIs)][Next]
+<br/>
+
+### :previous_track_button: [Previous (Object-Oriented Programming)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Next]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/APIs.md
+[Previous]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/ObjectOrientedProgramming.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript

@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# Object-Oriented Programming
 <br/>
 
 JavaScript Object-Oriented Programming (OOP) is a programming paradigm that focuses on organizing code into reusable objects that contain both data and behavior. It provides a structured approach to software development, allowing developers to create modular and scalable applications. Let's explore the key concepts and features of JavaScript OOP, including classes, objects, inheritance, encapsulation, and polymorphism.
@@ -34,3 +34,22 @@ JavaScript also supports the concept of interfaces, which define a contract for 
 In conclusion, JavaScript Object-Oriented Programming provides a powerful and flexible approach to software development. It allows developers to create modular and reusable code by organizing it into objects with encapsulated data and behavior. JavaScript's support for classes, inheritance, encapsulation, and polymorphism enables the creation of complex and scalable applications. By leveraging these OOP principles, developers can write cleaner, more maintainable code that is easier to understand and extend.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :next_track_button: [Next (System Development Life Cycle)][Next]
+<br/>
+
+### :previous_track_button: [Previous (Longest Increasing Path in a Matrix)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Next]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/SystemDevelopmentLifeCycle.md
+[Previous]: https://github.com/Superklok/JavaScriptGraphs/blob/main/JavaScriptLongestIncreasingPathInAMatrix.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript

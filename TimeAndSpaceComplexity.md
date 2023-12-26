@@ -21,7 +21,7 @@ Algorithms with constant time complexity have a fixed runtime, regardless of the
 Algorithms with linear time complexity have a runtime that grows linearly with the input size. As the input size increases, the runtime of the algorithm also increases proportionally. For example, iterating through an array or a linked list has linear time complexity.
 <br/>
 
-### Quadratic Time (O(n^2))
+### Quadratic Time (O(n²))
 Algorithms with quadratic time complexity have a runtime that grows quadratically with the input size. These algorithms often involve nested loops, resulting in a significant increase in runtime as the input size increases. Sorting algorithms like bubble sort or selection sort have quadratic time complexity.
 <br/>
 
@@ -29,7 +29,7 @@ Algorithms with quadratic time complexity have a runtime that grows quadraticall
 Algorithms with logarithmic time complexity have a runtime that grows logarithmically with the input size. These algorithms typically divide the problem space in half with each iteration, resulting in efficient runtime even for large input sizes. Binary search is an example of an algorithm with logarithmic time complexity.
 <br/>
 
-### Exponential Time (O(2^n))
+### Exponential Time (O(2ⁿ))
 Algorithms with exponential time complexity have a runtime that grows exponentially with the input size. These algorithms are highly inefficient and should be avoided whenever possible. Recursive algorithms that involve exhaustive search, such as the "brute force" approach to solving the traveling salesman problem, often have exponential time complexity.
 <br/>
 <br/>
@@ -49,7 +49,7 @@ Algorithms with constant space complexity use a fixed amount of memory, regardle
 Algorithms with linear space complexity use memory that grows linearly with the input size. As the input size increases, the memory usage of the algorithm also increases proportionally.
 <br/>
 
-### Quadratic Space (O(n^2))
+### Quadratic Space (O(n²))
 Algorithms with quadratic space complexity use memory that grows quadratically with the input size. These algorithms often involve nested data structures, resulting in a significant increase in memory usage as the input size increases.
 <br/>
 
@@ -57,7 +57,7 @@ Algorithms with quadratic space complexity use memory that grows quadratically w
 Algorithms with logarithmic space complexity use memory that grows logarithmically with the input size. These algorithms typically divide the problem space in half with each iteration, resulting in efficient memory usage even for large input sizes.
 <br/>
 
-### Exponential Space (O(2^n))
+### Exponential Space (O(2ⁿ))
 Algorithms with exponential space complexity use memory that grows exponentially with the input size. These algorithms are highly inefficient and should be avoided whenever possible.
 <br/>
 <br/>
@@ -69,3 +69,22 @@ Understanding the time and space complexity of algorithms is essential for JavaS
 Time and space complexity analysis is a fundamental concept in programming, including JavaScript. By understanding these concepts, developers can design efficient algorithms, optimize their code, and ensure optimal performance in their JavaScript applications.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :next_track_button: [Next (Validate Binary Search Tree)][Next]
+<br/>
+
+### :previous_track_button: [Previous (Test-Driven Development)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Next]: https://github.com/Superklok/JavaScriptTrees/blob/main/JavaScriptValidateBinarySearchTree.md
+[Previous]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/TestDrivenDevelopment.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript

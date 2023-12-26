@@ -130,3 +130,22 @@ We need a method that's missing from the library, but we're unwilling or unable 
 If it takes five classes to do anything useful, you might have solution sprawl. Consider simplifying and consolidating your design.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :next_track_button: [Next (Reverse String)][Next]
+<br/>
+
+### :previous_track_button: [Previous (Code Comments)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Next]: https://github.com/Superklok/JavaScriptStrings/blob/main/JavaScriptReverseString.md
+[Previous]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/CodeComments.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript

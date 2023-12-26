@@ -108,3 +108,22 @@ Test-Driven Development is a valuable approach for developing robust and maintai
 Furthermore, embracing Test-Driven Development in JavaScript empowers developers to build high-quality, well-tested codebases that are easier to maintain and enhance over time. By prioritizing testing and following the TDD principles, JavaScript developers can create resilient software that meets user requirements and stands the test of time. With the right tools, frameworks, and best practices, JavaScript developers can leverage TDD to achieve robust and efficient software development.
 <br/>
 <br/>
+<br/>
+<br/>
+
+### :next_track_button: [Next (Time & Space Complexity)][Next]
+<br/>
+
+### :previous_track_button: [Previous (LRU Cache)][Previous]
+<br/>
+
+### :play_or_pause_button: [More Programming Principles][More]
+<br/>
+
+### :eject_button: [Return to Course Outline][Return]
+<br/>
+
+[Next]: https://github.com/Superklok/ProgrammingPrinciples/blob/main/TimeAndSpaceComplexity.md
+[Previous]: https://github.com/Superklok/JavaScriptLinkedLists/blob/main/JavaScriptLRUCache.md
+[More]: https://github.com/Superklok/ProgrammingPrinciples
+[Return]: https://github.com/Superklok/LearnJavaScript
